@@ -6,14 +6,14 @@ This is used to calculate the gold rate with wastage and GST with 3%. Developed 
 
 Website Link: https://akkis-gold-rate-calculator.vercel.app/
 
-Note : the main branch held the source code, and the gh-pages branch held the built app code.
+Note : the main branch held the source code.
 
 <img width="1342" alt="Screenshot 2023-09-03 at 05 17  18 PM" src="./asset/gold-silver.PNG">
 
 
-Developed by @jayasurya @yokesharun
+Developed by @akshay
 
-Note: Hacktoberfest Contributes are welcome to contribute 
+
 
 
 
